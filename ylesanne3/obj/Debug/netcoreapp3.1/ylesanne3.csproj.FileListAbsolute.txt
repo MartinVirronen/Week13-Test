@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.exe
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.deps.json
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.runtimeconfig.json
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.dll
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\bin\Debug\netcoreapp3.1\ylesanne3.pdb
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.AssemblyInfo.cs
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.dll
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.pdb
+C:\Users\opilane\source\repos\root-rakendus Week13-test\ylesanne3\obj\Debug\netcoreapp3.1\ylesanne3.genruntimeconfig.cache

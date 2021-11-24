@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ylesanne2/1.0.0": {
+        "runtime": {
+          "ylesanne2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ylesanne2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
